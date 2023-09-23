@@ -17,7 +17,7 @@ Light FitBit clock face built on SDK for Versa 3 watches.\
 
 [FitBit Command Line Interface Guide](https://dev.fitbit.com/build/guides/command-line-interface/)
 
-- Clone the project
+- Clone the repository
 
 ```bash
   git clone https://github.com/FlyR9/fitBitClockFace

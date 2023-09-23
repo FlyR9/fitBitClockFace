@@ -26,12 +26,11 @@ Light FitBit clock face built on SDK for Versa 3 watches.
 > Add to the ```package.json``` the following permission ```"access_heart_rate"``` or the app will not be able to get datas from the heart beat sensor.
 
 - Build and install your app according to the CLI interface :
-
-- Start NPX
+  
 ```bash
-npx fitbit
+npx fitbit //Start npx
 ```
-- Build & install
+
 ```bash
-bi
+bi //Build & install
 ```

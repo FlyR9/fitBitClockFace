@@ -1,5 +1,8 @@
 # fitBitClockFace
-Light FitBit clock face built on SDK for Versa 3 watches.
+Light FitBit clock face built on SDK for Versa 3 watches.\
+<br>
+<img src="https://github.com/FlyR9/fitBitClockFace/blob/main/preview.PNG" width="20%">
+</br>
 
 ## This ClockFace displays :
 - Live BPM

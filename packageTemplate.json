@@ -1,0 +1,31 @@
+{
+  "name": "fit",
+  "version": "0.1.0",
+  "private": true,
+  "license": "",
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0",
+    "@fitbit/sdk-cli": "^1.7.3"
+  },
+  "fitbit": {
+    "appUUID": "",
+    "appType": "clockface",
+    "appDisplayName": "",
+    "iconFile": "resources/hmd.png",
+    "wipeColor": "#ffffff",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {},
+    "defaultLanguage": "en-US"
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  },
+  "dependencies": {}
+}

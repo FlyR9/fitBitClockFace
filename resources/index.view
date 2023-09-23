@@ -1,0 +1,13 @@
+<svg viewport-fill="black">
+  <text id="bpmValue" x="41%" y="7%" font-size="32" text-length="3" font-family="System-Bold" text-anchor="middle" fill="white">--</text>
+  <text id="bpmText" x="56%" y="7%" font-size="32" font-family="System-Bold" text-anchor="middle" fill="white">bpm</text>
+  <image id="hmd" x="50" y="30" width="270" height="270" href="hmd.png" />
+   <text id="clock-label" x="50%" y="95%+15"
+      fill="fb-yellow" font-size="35" font-family="System-Bold"
+      text-anchor="middle" text-length="32">00:00:00</text>
+     <text id="dateLabel" x="9%" y="17%" font-family="System-Light" font-size="32" text-length="32" fill="lightseagreen"></text>
+  <text id="dayLabel" x="71% "y="17%" font-family="System-Light" font-size="32" text-length="32" fill="lightseagreen"></text>
+</svg>
+
+
+

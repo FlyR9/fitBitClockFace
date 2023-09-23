@@ -28,9 +28,9 @@ Light FitBit clock face built on SDK for Versa 3 watches.
 - Build and install your app according to the CLI interface :
   
 ```bash
-npx fitbit //Start npx
+npx fitbit 
 ```
 
 ```bash
-bi //Build & install
+bi 
 ```
